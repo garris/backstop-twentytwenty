@@ -1,5 +1,5 @@
 {
-  "name": "react-twentytwenty",
+  "name": "backstop-twentytwenty",
   "version": "1.0.4",
   "description": "TwentyTwenty component for React",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jacobp100/react-twentytwenty.git"
+    "url": "git+https://github.com/garris/backstop-twentytwenty.git"
   },
   "keywords": [
     "react",
@@ -22,9 +22,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jacobp100/react-twentytwenty/issues"
+    "url": "https://github.com/garris/backstop-twentytwenty/issues"
   },
-  "homepage": "https://github.com/jacobp100/react-twentytwenty#readme",
+  "homepage": "https://github.com/garris/backstop-twentytwenty#readme",
   "devDependencies": {
     "babel": "^6.5.2",
     "babel-cli": "^6.8.0",
